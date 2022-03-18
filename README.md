@@ -2,6 +2,7 @@
 <br>
 
 ### 🛠 &nbsp;Tech Stack
+------
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) 
 ![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=Jupyter)
 ![VScode](https://img.shields.io/badge/-VScode-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
@@ -15,6 +16,7 @@
 <br>
 
 ### ✨ &nbsp; I'm interested in
+-------
 ![](https://img.shields.io/badge/-DataScience-05122A?style=fla&logo=NumPy)&nbsp;
 ![](https://img.shields.io/badge/-DataAnalysis-05122A?style=flat&logo=pandas)&nbsp;
 ![](https://img.shields.io/badge/-MachineLearning-05122A?style=flat&logo=scikit-learn)&nbsp;
