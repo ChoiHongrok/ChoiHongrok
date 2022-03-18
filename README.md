@@ -1,7 +1,5 @@
 ### Hi there 👋
-<img src="https://img.shields.io/badge/__-Python-3776AB?style=flat&logo=Python&logoColor=white">
-<img src="https://img.shields.io/badge/_-Python-3776AB?style=flat&logo=Python&logoColor=white">
-<img src="https://img.shields.io/badge/Space-Python-3776AB?style=flat&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/Python?style=flat&logo=Python">
 
 <!--
 **ChoiHongrok/ChoiHongrok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
