@@ -1,3 +1,4 @@
+<h1 align="center"> <img src="https://github.com/dheerajkotwani/dheerajkotwani/blob/master/hello.gif" alt="hello-gif">
 ### Hi there 👋
 <br>
 
@@ -34,4 +35,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+👨‍💻
 -->
