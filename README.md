@@ -4,10 +4,10 @@
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) 
 ![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=Jupyter)
 ![VScode](https://img.shields.io/badge/-VScode-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
-&nbsp;<sup>$>>$</sup>&nbsp;
+&nbsp;<sup>>></sup>&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=MySQL&logoColor=00758F)&nbsp; <sup>></sup> &nbsp;
 ![R](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)
-&nbsp; <sup>$>>$</sup>&nbsp; 
+&nbsp; <sup>>></sup>&nbsp; 
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)
 <br>
 
