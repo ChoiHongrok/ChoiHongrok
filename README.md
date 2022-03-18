@@ -1,6 +1,6 @@
 ### Hi there 👋
 <img src="https://img.shields.io/badge/Python-black?style=flat&logo=Python">
-<img src="https://badgen.net/badge/:subject/:status/:color?icon=github">
+<img src="https://badgen.net/badge/release/babel>
 <!--
 **ChoiHongrok/ChoiHongrok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
