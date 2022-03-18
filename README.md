@@ -12,7 +12,7 @@
 ![R](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)
 &nbsp; <sup>__>>__</sup>&nbsp; 
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)
----
+
 <br>
 <br>
 
@@ -21,7 +21,6 @@
 ![](https://img.shields.io/badge/-DataAnalysis-05122A?style=flat&logo=pandas)&nbsp;
 ![](https://img.shields.io/badge/-MachineLearning-05122A?style=flat&logo=scikit-learn)&nbsp;
 ![](https://img.shields.io/badge/-DeepLearning-05122A?style=flat&logo=pytorch)&nbsp;
----
 
 <!--
 **ChoiHongrok/ChoiHongrok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
