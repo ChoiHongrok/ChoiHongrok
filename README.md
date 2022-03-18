@@ -1,6 +1,9 @@
 <h1 align="center"> <img src="https://github.com/dheerajkotwani/dheerajkotwani/blob/master/hello.gif" alt="hello-gif">
----
-### Hi there 👋
+
+<br>
+
+## Hi there 👋
+
 <br>
 
 ## 🛠 &nbsp;Tech Stack
