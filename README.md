@@ -1,10 +1,10 @@
 <img src="https://github.com/dheerajkotwani/dheerajkotwani/blob/master/hello.gif" alt="hello-gif">
+
 <br>
- Hi there 👋
 
-  <br>
+### Hi there 👋
 
-
+<br>
 <br>
 
 ## 🛠 &nbsp;Tech Stack
