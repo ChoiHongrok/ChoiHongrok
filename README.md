@@ -1,4 +1,4 @@
-<img src="https://github.com/ChoiHongrok/ChoiHongrok/blob/master/hello.gif" alt="hello-gif">
+<img src="https://github.com/ChoiHongrok/ChoiHongrok/hello.gif" alt="hello-gif">
 
 <br>
 
