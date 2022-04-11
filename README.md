@@ -56,7 +56,7 @@
 ### Internship 
 `2021.06 ~ 2021.08` 카카오 추천팀 
 - 일본 웹툰 서비스 piccoma<br>
-<img src="https://github.com/ChoiHongrok/ChoiHongrok/blob/main/piccoma.jpg" alt="piccoma", width=100, height=200><br>
+<img src="https://github.com/ChoiHongrok/ChoiHongrok/blob/main/piccoma.jpg" alt="piccoma" width=100 height=200><br>
 - Piccoma 서비스 추천 성능 개선
 - Piccoma 유저의 Diversity(소비다양성)과 Retention(재방문율)의 상관관계 분석
 
