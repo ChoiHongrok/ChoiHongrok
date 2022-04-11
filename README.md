@@ -31,7 +31,7 @@
 
 ## 👨 &nbsp; My Profile
 
-`2016.03 ~ 2022.08` 국민대학교 AI빅데이터융합전공 졸업예정<br>
+`2016.03 ~ 2022.08` __국민대학교 AI빅데이터융합전공__ 졸업예정<br>
 `2019.09 ~ 2020.01` 코딩좀알려주라(코알라) 2기 수료<br>
 `2021.06 ~ 2021.08` 카카오 추천팀(데이터분석) 인턴십 수료<br>
 `2022.01 ~ 2022.06` 부스트캠프 AI Tech 3기 수료예정<br>
@@ -56,7 +56,7 @@
 ### Internship 
 `2021.06 ~ 2021.08` 카카오 추천팀 
 - 일본 웹툰 서비스 piccoma<br>
-<img src="https://github.com/ChoiHongrok/ChoiHongrok/blob/main/piccoma.jpg" alt="piccoma" width=400 height=600><br>
+<img src="https://github.com/ChoiHongrok/ChoiHongrok/blob/main/piccoma.jpg" alt="piccoma" width=500 height=400><br>
 - Piccoma 서비스 추천 성능 개선
 - Piccoma 유저의 Diversity(소비다양성)과 Retention(재방문율)의 상관관계 분석
 
@@ -78,6 +78,10 @@
 `2021.07 ~ 2021.08` [산업통상자원부 2021 공공데이터 활용 빅데이터분석 경진대회](http://www.datacontest.kr/board/view/winning/3458)
 - 최우수상 수상
 - [발표자료](https://www.notion.so/2021-cad7d079df474de980bda9014bf5abbb)
+
+### Boostcamp AI Tech
+`2022.02 ~ 2022.03` 마스크 착용 상태 분류 [[repository](https://github.com/ChoiHongrok/level1-image-classification-level1-cv-14)]
+`2022.03 ~ 2022.04` 재활용 품목 분류를 위한 Object Detection [[repository](https://github.com/ChoiHongrok/level2-object-detection-level2-cv-12)]
 
 ### Etc
 `2019.09 ~ 2020.01` 코딩좀알려주라(코알라) 2기
