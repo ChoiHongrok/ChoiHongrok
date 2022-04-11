@@ -41,6 +41,11 @@
 
 ## 🏃‍♂️&nbsp; My Projects 
 ### > Inclass
+`2020/01` __머신러닝__
+- 구매고객 성별 예측 모델링
+- Inclass Competition 최종 1위
+- [최종보고서](https://www.notion.so/20-01-bab9499748bc4ffe900ed1094192cbfa)
+
 `2020/01` __텍스트데이터분석__ 
 - [합격자소서 분석(중간)](https://www.notion.so/72c28cd6c6214fb7a29a4144bd83fd9b)
 - [합격자소서 분석2(기말)](https://www.notion.so/2-7f183c68f92f4f2ab2a28bc4427f8eb4)
