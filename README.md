@@ -82,7 +82,7 @@ __2)__ Piccoma 유저의 Diversity(소비다양성)과 Retention(재방문율)�
 <br>
 
 ### > Boostcamp AI Tech
-`2022.02 ~ 2022.03` __마스크 착용 상태 분류__ [[repository](https://github.com/ChoiHongrok/level1-image-classification-level1-cv-14)]
+`2022.02 ~ 2022.03` __마스크 착용 상태 분류__ [[repository](https://github.com/ChoiHongrok/level1-image-classification-level1-cv-14)]<br>
 `2022.03 ~ 2022.04` __재활용 품목 분류를 위한 Object Detection__ [[repository](https://github.com/ChoiHongrok/level2-object-detection-level2-cv-12)]
 
 <br>
