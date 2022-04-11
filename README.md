@@ -57,8 +57,8 @@
 `2021.06 ~ 2021.08` __카카오 추천팀__ 
 - 일본 웹툰 서비스 [piccoma](https://piccoma.com/web/)<br>
 <img src="https://github.com/ChoiHongrok/ChoiHongrok/blob/main/piccoma.jpg" alt="piccoma" width=500 height=400><br>
-- Piccoma 서비스 추천 성능 개선
-- Piccoma 유저의 Diversity(소비다양성)과 Retention(재방문율)의 상관관계 분석
+__1)__ Piccoma 추천 성능 개선<br>
+__2)__ Piccoma 유저의 Diversity(소비다양성)과 Retention(재방문율)의 상관관계 분석
 
 <br>
 
