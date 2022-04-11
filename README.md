@@ -29,6 +29,16 @@
 <br>
 <br>
 
+## 👨 &nbsp; My Profile
+
+<br>
+
+`2016.03 ~ 2022.08` 국민대학교 AI빅데이터융합전공 졸업예정<br>
+`2021.06 ~ 2021.08` 카카오 추천팀(데이터분석) 인턴십 수료<br>
+`2022.01 ~ 2022.06` 부스트캠프 AI Tech 3기 수료예정<br>
+
+
+
 <!--
 **ChoiHongrok/ChoiHongrok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
