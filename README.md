@@ -5,9 +5,12 @@
 ### Hi there 👋
 
 <br>
-<br>
 
 ## 🛠 &nbsp;Tech Stack
+
+![github](https://img.shields.io/badge/-github-05122A?style=flat&logo=github&logoColor=EEEEEE)
+![wandb](https://img.shields.io/badge/-W&B-05122A?style=flat&logo=weightsandbiases&logoColor=FFBE00)
+
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) 
 ![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=Jupyter)
 ![VScode](https://img.shields.io/badge/-VScode-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
@@ -18,7 +21,6 @@
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)
 
 <br>
-<br>
 
 ## ✨ &nbsp; I'm interested in
 ![](https://img.shields.io/badge/-DataScience-05122A?style=fla&logo=NumPy)&nbsp;
@@ -26,7 +28,6 @@
 ![](https://img.shields.io/badge/-MachineLearning-05122A?style=flat&logo=scikit-learn)&nbsp;
 ![](https://img.shields.io/badge/-DeepLearning-05122A?style=flat&logo=pytorch)&nbsp;
 
-<br>
 <br>
 
 ## 👨 &nbsp; My Profile
@@ -36,7 +37,6 @@
 `2021.06 ~ 2021.08` __카카오 추천팀 데이터분석 인턴__ 수료<br>
 `2022.01 ~ 2022.06` __부스트캠프 AI Tech 3기__ 수료예정<br>
 
-<br>
 <br>
 
 ## 🏃‍♂️&nbsp; My Projects 
