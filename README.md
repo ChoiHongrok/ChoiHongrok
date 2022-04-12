@@ -88,8 +88,15 @@ __2)__ Piccoma 유저의 Diversity(소비다양성)과 Retention(재방문율)�
 <br>
 
 ### > Boostcamp AI Tech
-`2022.02 ~ 2022.03` __마스크 착용 상태 분류__ [[repository](https://github.com/ChoiHongrok/level1-image-classification-level1-cv-14)]<br>
-`2022.03 ~ 2022.04` __재활용 품목 분류를 위한 Object Detection__ [[repository](https://github.com/ChoiHongrok/level2-object-detection-level2-cv-12)]
+`2022.02 ~ 2022.03` __마스크 착용 상태 분류__ 
+- [repository](https://github.com/ChoiHongrok/level1-image-classification-level1-cv-14)
+- [대회개요 및 팀회고](https://www.notion.so/Choi-Hongrok-ef19aacdbc7040be8db2a0db01e2da10#113723562e4f445eaccd6a1abf0ba2fc)
+- [개인회고](https://www.notion.so/Choi-Hongrok-ef19aacdbc7040be8db2a0db01e2da10#996da1b65bdd4304801546789522e1c6)
+<br>
+`2022.03 ~ 2022.04` __재활용 품목 분류를 위한 Object Detection__ 
+- [repository](https://github.com/ChoiHongrok/level2-object-detection-level2-cv-12)
+- [대회개요 및 팀회고](https://www.notion.so/Choi-Hongrok-ef19aacdbc7040be8db2a0db01e2da10#6037d14af85543999304bbcc16faf42b)
+- [개인회고](https://www.notion.so/Choi-Hongrok-ef19aacdbc7040be8db2a0db01e2da10#dc41c4351f344a9f9043d93f811bd98a)
 
 <br>
 
