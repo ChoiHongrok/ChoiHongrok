@@ -36,7 +36,7 @@
 `2016.03 ~ 2022.08` __국민대학교 AI빅데이터융합경영전공__ 졸업예정<br>
 `2019.09 ~ 2020.01` __코딩좀알려주라(코알라) 2기__ 수료<br>
 `2021.06 ~ 2021.08` __카카오 추천팀 데이터분석 인턴__ 수료<br>
-`2022.01 ~ 2022.06` __부스트캠프 AI Tech 3기__ 수료예정<br>
+`2022.01 ~ 2022.06` __부스트캠프 AI Tech 3기__ 수료<br>
 
 <br>
 
@@ -85,6 +85,12 @@ __2)__ Piccoma 유저의 Diversity(소비다양성)과 Retention(재방문율)�
 - 최우수상 수상
 - [발표자료](https://www.notion.so/2021-cad7d079df474de980bda9014bf5abbb)
 
+`2022.06 ~ 3 days` [__SW중심대학 공동해커톤 2022__](https://www.swhackathon.com/)
+- **레시피 추천 SNS** app 제작
+- **서버** **및** **추천시스템 담당**
+- [repository](https://github.com/2022-SwUnivHackaton-COOKKUG)
+- **DEMO** - [[youtube](https://www.youtube.com/watch?v=a9uKvke8tb0)][[ppt](https://www.notion.so/SW-2022-cbc6a8427888417884a8047b6b392a8b)]
+
 <br>
 
 ### > Boostcamp AI Tech
@@ -101,6 +107,24 @@ __2)__ Piccoma 유저의 Diversity(소비다양성)과 Retention(재방문율)�
 - [개인회고](https://www.notion.so/Choi-Hongrok-ef19aacdbc7040be8db2a0db01e2da10#dc41c4351f344a9f9043d93f811bd98a)
 
 <br>
+
+`2022.04 ~ 2022.05` **재활용 품목 분류를 위한 Semantic Segmentation** 
+
+- [repository](https://github.com/ChoiHongrok/Boostcamp-AI-Tech-semantic-segmentation)
+- [대회개요 및 팀회고](https://www.notion.so/level-02-Semantic-Segmentation-d4577b0ebe4d4f2ba9b4a0d3d60222f3)
+- [개인회고](https://www.notion.so/level-02-Semantic-Segmentation-0048747563794c75ba493b3859b933da)
+
+<br> 
+
+`2022.05 ~ 2022.06` **최종프로젝트 - 매대결품감지**
+
+- [repository](https://github.com/ChoiHongrok/Boostcamp-AI-Tech-Project-stock-detection)
+- [팀회고](https://www.notion.so/level-03-Final-Project-4ea82f2ad26c4610a62a142888049bba)
+- [개인회고](https://www.notion.so/level-03-Final-Project-e9e581f587564c39ac6ab4cd6b89c3a3)
+- **DEMO** - [[youtube](https://www.youtube.com/channel/UCkP9pf52Y9iGt3Goi099a5g)][[발표자료](https://www.notion.so/19fb09564f9d4c3caeca42e3e0a783c6)]
+
+<br> 
+
 
 ### > Etc
 `2019.09 ~ 2020.01` __코딩좀알려주라(코알라) 2기__
